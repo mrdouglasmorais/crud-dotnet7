@@ -1,0 +1,31 @@
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.vs/
+*.vscode/
+*.sln.docstates
+*.csproj.user
+*.dotnet/
+testResults/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+out/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# MSTest
+testresults.xml
